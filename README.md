@@ -1,4 +1,4 @@
-Programo en c,c++ y python, actualmente sigo siendo un estudiante bastante interesado en programacion 
+C,C++
 
 <!---
 AndreRaz/AndreRaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
