@@ -15,7 +15,7 @@
 
 🐧 Linux enthusiast currently diving deep into **Arch Linux** with **Hyprland** — always experimenting with dotfiles like **HyDE**, **HyprLuna**, and **End-4 dots**.
 
-📦 Working on projects ranging from **PID temperature control for incubators** to **CSV parsers** and **optimization solvers** in **C++**.
+📦 Working on projects **CSV parsers** and **optimization solvers** in **C++**.
 
 🎯 Long-term goal: Become a skilled software developer in a company that challenges me to grow.
 
@@ -29,7 +29,7 @@
 
 | Programming Languages | Tools |
 | ----------------------|-------|
-| <img src="https://skillicons.dev/icons?i=py,c,cpp,sql,bash,html,css,js" /> | <img src="https://skillicons.dev/icons?i=vscode,github,linux,arduino,matlab" /> |
+| <img src="https://skillicons.dev/icons?i=py,c,cpp,sql,bash,html" /> | <img src="https://skillicons.dev/icons?i=vscode,github,linux," /> |
 
 </div>
 
