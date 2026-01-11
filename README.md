@@ -11,11 +11,10 @@
 [![GitHub Stars](https://img.shields.io/github/stars/AndreRaz?style=social)](https://github.com/AndreRaz)
 </div>
 
-🌌 Physics Engineering undergrad at the **University of Guanajuato**, passionate about **programming**, **open-source**, and **scientific outreach**.
+🌌 Physics Engineering at the **University of Guanajuato**, passionate about **programming**, **open-source**, and **scientific outreach**.
 
-🐧 Linux enthusiast currently diving deep into **Arch Linux** with **Hyprland** — always experimenting with dotfiles like **HyDE**, **HyprLuna**, and **End-4 dots**.
+🐧 Linux enthusiast currently diving deep into.
 
-📦 Working on projects **CSV parsers** and **optimization solvers** in **C++**.
 
 🎯 Long-term goal: Become a skilled software developer in a company that challenges me to grow.
 
