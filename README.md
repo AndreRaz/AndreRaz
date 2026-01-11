@@ -13,7 +13,7 @@
 
 🌌 Physics Engineering at the **University of Guanajuato**, passionate about **programming**, **open-source**, and **scientific outreach**.
 
-🐧 Linux enthusiast currently diving deep into.
+🐧 Linux enthusiast.
 
 
 🎯 Long-term goal: Become a skilled software developer in a company that challenges me to grow.
