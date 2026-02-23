@@ -20,22 +20,7 @@ Linux enthusiast.
 | ----------------------|-------|
 | <img src="https://skillicons.dev/icons?i=py,c,cpp,sql,bash,html" /> | <img src="https://skillicons.dev/icons?i=vscode,github,linux," /> |
 
-</div>
 
-<br>
-
-<div align="center">
-<h1>Operating Systems</h1>
-<img src="https://skillicons.dev/icons?i=arch,linux,windows" />
-</div>
-
-<br>
-
-| Snake Eating Contributions in the Last Year |
-| ------------------------------------------- |
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
-
-<div align="center">
 
 | GitHub Stats | Streak |
 |--------------|--------|
