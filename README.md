@@ -1,19 +1,9 @@
 <div align="center">
 <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
-<div align="center">
+ Engineering at the **University of Guanajuato**, passionate about **programming**, **open-source**, and **scientific outreach**.
 
-<a href="https://github.com/AndreRaz">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
-</a>
-
-[![GitHub Followers](https://img.shields.io/github/followers/AndreRaz?label=Follow&style=social)](https://github.com/AndreRaz)
-[![GitHub Stars](https://img.shields.io/github/stars/AndreRaz?style=social)](https://github.com/AndreRaz)
-</div>
-
-🌌 Physics Engineering at the **University of Guanajuato**, passionate about **programming**, **open-source**, and **scientific outreach**.
-
-🐧 Linux enthusiast.
+Linux enthusiast.
 
 
 🎯 Long-term goal: Become a skilled software developer in a company that challenges me to grow.
