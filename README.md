@@ -7,7 +7,7 @@
   </p>
   <p>
     <a href="mailto:jandreabo.ram@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/TU-PERFIL"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/jose-andre-ramirez"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>&nbsp;&nbsp;
     <a href="https://instagram.com/andree_armz"><img src="https://skillicons.dev/icons?i=instagram" height="28"/></a>
   </p>
 </div>
