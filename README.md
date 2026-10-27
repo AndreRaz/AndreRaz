@@ -1,56 +1,70 @@
 <div align="center">
 
-# José André Abogado Ramírez
+<h1>André</h1>
 
-### Physics Engineer · Machine Learning · Computing · Software Development
+<p>
+  <strong>Physics Engineer · Machine Learning · Software Development</strong>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/jose-andre-ramirez)
+<p>
+  Currently learning <strong>MLOps & DevOps</strong>.<br>
+  Interested in building and deploying machine learning systems.
+</p>
 
-</div>
+<br>
 
-## About me
+<h3>Tech Stack</h3>
 
-Physics Engineer from the University of Guanajuato focused on applied machine learning, computer vision and Python development.
+<p><strong>Languages</strong></p>
 
-- Built an end-to-end **type 2 diabetes patient monitoring platform** with FastAPI, PostgreSQL and automated backend tests.
-- Implemented **Mamba architectures for image segmentation**, including a 2D selective scan and reproducible U-Net comparisons.
-- Open to opportunities in **Python/backend development, applied ML, computer vision and scientific software**.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+</p>
 
-## Featured work
+<p><strong>Machine Learning</strong></p>
 
-### [Mamba-UNet for cell segmentation](https://github.com/AndreRaz/Mamba)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" title="PyTorch" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" title="Scikit-learn" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" title="OpenCV" />
+</p>
 
-Implemented U-Net and Mamba-UNet experiments on 670 image–mask pairs. The input-dependent 2D selective scan model reached **0.8885 Dice** and **0.7994 IoU**, converging in 11 epochs.
+<p><strong>Backend & Data</strong></p>
 
-`Python` `TensorFlow` `Mamba SSM` `U-Net` `Computer Vision`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" alt="SQLAlchemy" title="SQLAlchemy" />
+</p>
 
-### [Type 2 diabetes patient monitoring](https://github.com/NeuxoraAI/WebDiabetes-DM-2026-06)
+<p><strong>Infrastructure & Tools</strong></p>
 
-End-to-end healthcare platform with role-based authentication, longitudinal clinical records, charts, doctor–patient messaging, a validated 29-item adherence assessment and **37 backend tests**.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" title="AWS" />
+</p>
 
-`FastAPI` `PostgreSQL` `SQLAlchemy` `pytest`
+<br>
 
-### [YOLOv5m electronic component detection](https://github.com/AndreRaz/YOLOV5m_ElectronicsComponents)
+<a href="https://www.linkedin.com/in/jose-andre-ramirez">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/AndreRaz">GitHub</a>
 
-Real-time electronic component detection using YOLOv5m and the ElectroCom61 dataset, with documented training, evaluation, confusion matrix and video demo.
-
-`Python` `PyTorch` `YOLOv5` `OpenCV`
-
-### [Native Windows inventory system](https://github.com/AndreRaz/Inventario)
-
-C++ desktop application using the Win32 API and SQLite, including data validation and automatic HTML inventory report generation.
-
-`C++` `Win32 API` `SQLite` `HTML` `Make`
-
-## Core technologies
-
-**Languages:** Python · SQL · C · C++ · JavaScript  
-**Backend & Data:** FastAPI · SQLAlchemy · Pydantic · PostgreSQL · SQLite · REST APIs  
-**ML & Vision:** TensorFlow · PyTorch · YOLOv5 · OpenCV · U-Net · Mamba SSM  
-**Engineering:** AWS · Docker · Linux · Git · pytest
-
----
-
-<div align="center">
-Open to work · Mexico / Remote · Open to international relocation
 </div>
