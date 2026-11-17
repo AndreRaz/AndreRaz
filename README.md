@@ -14,7 +14,7 @@
 
 <p>
   Project Lead at
-  <a href="https://github.com/NeuxoraAI"><strong>Neuxora</strong></a>,<br>
+  <a href="https://github.com/NeuxoraAI"><strong>Kin Labs</strong></a>,<br>
   a developer association supporting Ecosistema Vida UG.
 </p>
 
