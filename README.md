@@ -28,6 +28,6 @@
 
 <a href="https://www.linkedin.com/in/jose-andre-ramirez">LinkedIn</a>
 &nbsp;·&nbsp;
-<a href="https://github.com/NeuxoraAI">Neuxora</a>
+<a href="https://github.com/NeuxoraAI">Kin Labs</a>
 </div>
 
